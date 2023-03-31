@@ -1,0 +1,16 @@
+Project Title: Diabetes Prediction Model
+
+Project Purpose:
+The purpose of this project is to determine whether certain features can help predict if a person is diabetic or not. The project uses a dataset containing 768 samples of people with particular characteristics and if they were diagnosed with diabetes. The goal is to create a model that can help predict if a person is at risk of being diabetic using various features.
+
+Dataset:
+The dataset used in this project is diabetes.csv, obtained from Kaggle and created by Akshay Dattatray Khare. The dataset contains information on 768 individuals and their characteristics such as age, BMI, glucose levels, blood pressure, and number of pregnancies. The dataset is in CSV format and is licensed under CC0: Public Domain.
+
+Tools Used:
+The project was developed using Python programming language, SQL, and machine learning techniques. The Python libraries used include pandas, numpy, matplotlib, seaborn, scikit-learn, and keras. SQL was used to manipulate and analyze the dataset.
+
+Project Steps:
+The project was divided into two parts. The first part involved hypothesis testing to observe a few features and how they correlate with diabetes. The second part involved creating a model using all the features to determine if they are sufficient to make an accurate prediction on whether someone can be diagnosed with diabetes or not using the training data and features from the table.
+
+Conclusion:
+This project aimed to create a diabetes prediction model using various features. The project successfully developed a model that can predict if a person is at risk of being diabetic using the provided features. The model was developed using Python, SQL, and machine learning techniques. The project can be improved by using additional features and exploring other machine learning models.
